@@ -1,7 +1,7 @@
 # courses-portal
 A simple page to congregate in one place all the courses completed through different platforms.
 
-- Credley: https://www.youracclaim.com/users/nicholas-busby/badges
+- Credly: https://www.youracclaim.com/users/nicholas-busby/badges
 - Microsoft: https://learn.microsoft.com/en-us/users/nicholasbusby-1422/
 - PluralSight (personal): https://app.pluralsight.com/profile/nicholas-busby
 - PluralSight (BAE):
