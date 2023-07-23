@@ -7,4 +7,5 @@ A simple page to congregate in one place all the courses completed through diffe
 - PluralSight (BAE): https://app.pluralsight.com/profile/nicholas-busby-c2
 - TryHackMe: https://tryhackme.com/p/eagle840
 - KodeKloud: https://kodekloud.com/members/nicholas-busby/profile/ (WIP not working)
+- A Cloud Guru: https://learn.acloud.guru/profile/nbusby (WIP Courses not showing)
 - CBT Nuggets: https://www.cbtnuggets.com/ (no public profiles available)
